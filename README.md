@@ -1,4 +1,4 @@
-# CS231_Reddit-Word-Frequency-Analyzer
+# Reddit-Word-Frequency-Analyzer
 
 A word frequency analyzer that uses BSTMaps and HashMaps to determine the frequencies of all the words in a given text document.
 
